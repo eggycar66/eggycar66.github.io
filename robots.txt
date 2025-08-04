@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://eggycar66.github.io/sitemap.xml
